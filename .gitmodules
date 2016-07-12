@@ -25,3 +25,6 @@
 	path = external/LibZipSharp
 	url = https://github.com/grendello/LibZipSharp.git
 	branch = master
+[submodule "external/llvm"]
+	path = external/llvm
+	url = https://github.com/xaltotun/monollvm.git
